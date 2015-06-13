@@ -1,4 +1,8 @@
 Hello file3#################################
 
+<<<<<<< HEAD
 
 new email hhh@hhh.hh
+=======
+This are changes from br1
+>>>>>>> br1
